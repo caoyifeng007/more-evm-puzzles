@@ -1,3 +1,5 @@
+[@daltyboy11](https://github.com/daltyboy11/more-evm-puzzles)
+
 # 10 more EVM puzzles
 
 Here are 10 more puzzles, inspired by the 10 EVM puzzles created by [@fvictorio](https://github.com/fvictorio/evm-puzzles). These ones are harder and more focused on the CREATE and CALL opcodes. Have fun!
